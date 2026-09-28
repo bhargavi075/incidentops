@@ -1,5 +1,4 @@
-"""
-agent.py - Enterprise IncidentOps Backend Intelligence Engine
+"""agent.py - Enterprise IncidentOps Backend Intelligence Engine
 Pairs Groq ultra-fast LPU inference with Hindsight persistent biomimetic memory.
 Features:
 - Zero-cost 4-channel recall ($0.00 / 0 LLM retrieval tokens)
