@@ -1,0 +1,8 @@
+{
+  "name": "Remix IncidentOps - Autonomous SRE Root-Cause \u0026 Runbook Memory Agent",
+  "description": "Enterprise autonomous SRE incident triage and runbook memory agent combining Groq LPU inference with Hindsight biomimetic 4-channel persistent memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
