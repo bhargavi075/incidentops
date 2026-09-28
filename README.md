@@ -6,7 +6,6 @@
 
 -   **Sai Bhavani Yedla**
 -   **Bhargavi Endla**
-  
 
 ## 📌 Executive Summary & Problem Statement
 
