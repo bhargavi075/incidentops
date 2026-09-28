@@ -1,6 +1,6 @@
 # IncidentOps: Autonomous SRE Root-Cause & Runbook Memory Agent.
 
-> **Enterprise autonomous incident triage copilot** pairing **Groq LPU ultra-low latency inference** (`openai/gpt-oss-120b`) with **Hindsight biomimetic 4-channel persistent memory** (`incidentops-bank`) to retrieve verified post-mortems at $0.00 cost (zero LLM tokens) and output instant, executable CLI fixes.
+**Enterprise autonomous incident triage copilot** pairing **Groq LPU ultra-low latency inference** (`openai/gpt-oss-120b`) with **Hindsight biomimetic 4-channel persistent memory** (`incidentops-bank`) to retrieve verified post-mortems at $0.00 cost (zero LLM tokens) and output instant, executable CLI fixes.
 
 ## 👥 Authors & Collaborators
 
